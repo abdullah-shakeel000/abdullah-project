@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif;
+}
+.carousel-item img{
+    width: 50%;
+    height: 100vh;
+}
+.beignet{
+    width: 100%;
+}
